@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Fragment to Fragment and also Between Acitivity</string>
+    <string name="enter_your_text_here">Enter your Text Here</string>
+    <string name="send1">Send</string>
+</resources>
